@@ -1,7 +1,7 @@
 galaxy_info:
-  author: your name
-  description: your role description
-  company: your company (optional)
+  author: Mp886
+  description: Shutting down the ec2 isntance with the concept of "WHEN" condition on ansible gather_facts. This shut down only the os_family = "Debian".
+  
 
   # If the issue tracker for your role is not on github, uncomment the
   # next line and provide a value
